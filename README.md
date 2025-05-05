@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zueai-cloudflare-api-mcp-badge.png)](https://mseep.ai/app/zueai-cloudflare-api-mcp)
+
 # cloudflare-api-mcp
 
 This is a lightweight Model Control Protocol (MCP) server bootstrapped with [create-mcp](https://github.com/zueai/create-mcp) and deployed on Cloudflare Workers.
